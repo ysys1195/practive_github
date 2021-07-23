@@ -1,0 +1,19 @@
+// Place all the styles related to the github controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1 {
+  font-style: oblique;
+}
+
+.destroy {
+  margin: 20px auto;
+  p {
+    height: 30px;
+    width: 300px;
+    background-color: azure;
+    display: block;
+    padding: 10px;
+  }
+}
