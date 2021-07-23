@@ -4,4 +4,5 @@ class GithubController < ApplicationController
   end
 
   # コントローラー
+  
 end
